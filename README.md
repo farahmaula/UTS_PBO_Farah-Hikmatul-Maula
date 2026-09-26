@@ -27,6 +27,7 @@ Menu ini juga bisa digunakan untuk menghapus data rumah dengan memilih menu 4 ya
 <img width="600" height="415" alt="image" src="https://github.com/user-attachments/assets/b2059113-3f52-4984-9336-bcd47b3db70a" />
 Menu 0 yaitu kembali akan mengembalikan sistem ke menu utama dari manajemen rumah subsidi ini dan lanjut untuk manajemen data lainnya. 
 
+
 2. Manajemen Data Pembeli
 <img width="832" height="397" alt="image" src="https://github.com/user-attachments/assets/b9ca108c-0c72-487e-960b-2ebff99e36ca" />
 Pada menu pembeli ini isi menu sama dengan menu rumah yang sebelumnya dijelaskan. Kita dapat melakukan proses menambah data, melihat, mengubah, dan menghapus data pembeli. Saat menambahkan data pembeli di menu 1 akan diminta untuk memasukkan NIK, nama, penghasilan, nomor HP, dan status kepemilikan rumah. Setelah semua data terisi sistem akan langsung menyimpan data tersebut. Data pembeli bisa dilihat jika memilih menu 2 yaitu lihat pembeli seperti pada contoh gambar dibawah ini.
@@ -38,6 +39,7 @@ Apabila ingin mengubah data pembeli yang sudah ada bisa menggunakan menu 3 yaitu
 <img width="616" height="525" alt="image" src="https://github.com/user-attachments/assets/188cd2ba-264d-4dd7-93ed-c513585e62f5" />
 
 Menu 4 ini digunakan untuk menghapus data pembeli maka data pembeli otomatis akan terhapus. Menu 0 yaitu kembali akan mengembalikan sistem ke menu utama dari manajemen pembeli ini dan lanjut untuk manajemen data lainnya. 
+
 
 3. Manajemen Dokumen
 <img width="681" height="189" alt="image" src="https://github.com/user-attachments/assets/ee520496-0af4-40b4-a6f7-992118c7e288" />
@@ -69,6 +71,8 @@ Menu 3 yaitu proses pengajuan merupakan proses dimana dapat melakukan verifikasi
 Menu 4 yaitu pembayaran dimana proses ini melakukan pembayaran rumah subsidi setelah proses pengajuan pembelian sudah disetujui. Dengan memasukkan id pengajuan lalu ada 2 cara yang bisa dipilih untuk pembayaran yaitu secara cash atau cicilan. Untuk pembayaran cash langsunng dengan memasukkan nominal pembayaran yang sesuai dengan harga rumah yang dibeli. Sementara itu untuk pembayaran cicilan, sistem menghitung jumlah cicilan berdasarkan 30% dari penghasilan pembeli. Dibawah ini adalah output dari kedua metode pembayaran.
 <img width="675" height="389" alt="image" src="https://github.com/user-attachments/assets/702dd3e7-548f-41d6-a023-c96c9ca35884" />
 <img width="701" height="328" alt="image" src="https://github.com/user-attachments/assets/059b38f8-06be-44fc-a9b1-ac759969152b" />
+
+<img width="1025" height="701" alt="image" src="https://github.com/user-attachments/assets/7170f9c7-924c-4668-be43-e2498ceee2f6" />
 
 Menu 5 ini digunakan untuk menghapus data pengajuan maka data pengajuan pembelian otomatis akan terhapus. Menu 0 yaitu kembali akan mengembalikan sistem ke menu utama dari manajemen pengajuan ini dan lanjut untuk manajemen data lainnya. 
 
