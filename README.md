@@ -61,10 +61,10 @@ Menu 0 yaitu kembali akan mengembalikan sistem ke menu utama dari manajemen doku
 
 Pada menu pengajuan dapat membuat pengajuan rumah subsidi berdasarkan data pembeli, rumah, dan dokumen yang telah tersedia. Menu 1 yaitu tambah pengajuan
 diminta untuk memasukkan id pengajuan, NIK pembeli, id rumah yang ingin dibeli kemudian akan dilihat penghasilan pembeli yang sebelumnya sudah dimasukkan jika gaji pembeli diatas atau sama dengan 2 juta maka pengajuan tidak bisa dibuat selain itu juga dilihat apakah pembeli sebelumnya sudah punya rumah atau belum. Jika belum maka pengajuan bisa dibuat. Ini adalah indikator yang menentukan apakah bisa mengajukan pembelian rumah subsidi atau tidak. Pada menu 2 dapat melihat hasil pengajuan yang sudah ditambahkan pada sistem seperti pada gambar dibawah ini.
-<img width="705" height="216" alt="image" src="https://github.com/user-attachments/assets/673ca051-bdf6-4875-ad74-d519c5c0b94a" />
+<img width="590" height="425" alt="image" src="https://github.com/user-attachments/assets/55eeaafa-1a2b-4e86-ae27-dccf906897c1" />
 
 Menu 3 yaitu proses pengajuan merupakan proses dimana dapat melakukan verifikasi pengajuan pembelian rumah subsidi dengan memastikan data yang ada sudah sesuai agar pengajuan bisa disetujui.
-<img width="839" height="415" alt="image" src="https://github.com/user-attachments/assets/1c9afa93-fed1-46d2-9e96-103f31ce4e49" />
+<img width="598" height="597" alt="image" src="https://github.com/user-attachments/assets/4c4636f2-f48c-4985-99e8-c792e7e082ac" />
 
 Menu 4 yaitu pembayaran dimana proses ini melakukan pembayaran rumah subsidi setelah proses pengajuan pembelian sudah disetujui. Dengan memasukkan id pengajuan lalu ada 2 cara yang bisa dipilih untuk pembayaran yaitu secara cash atau cicilan. Untuk pembayaran cash langsunng dengan memasukkan nominal pembayaran yang sesuai dengan harga rumah yang dibeli. Sementara itu untuk pembayaran cicilan, sistem menghitung jumlah cicilan berdasarkan 30% dari penghasilan pembeli. Dibawah ini adalah output dari kedua metode pembayaran.
 <img width="675" height="389" alt="image" src="https://github.com/user-attachments/assets/702dd3e7-548f-41d6-a023-c96c9ca35884" />
