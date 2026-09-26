@@ -142,7 +142,7 @@ Untuk subclass rumah terjual diterapkan jika selesai melakukan pembayaran pembel
 <img width="1293" height="386" alt="image" src="https://github.com/user-attachments/assets/dc7d4b2d-7407-4e1c-ba72-672f9ead9fe1" />
 <img width="831" height="312" alt="image" src="https://github.com/user-attachments/assets/b24842f5-95b1-40a2-a352-3e7c2a84260c" />
 
-# Penerapan Nilai Tambah
+# Penerapan Polymorphism & MVC
 
 **1. Polymorphism (method overriding)**
 
