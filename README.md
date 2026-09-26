@@ -49,10 +49,12 @@ Pada menu dokumen ini di menu 1 yaitu tambah dokumen bisa melakukan penambahan d
 Jika ingin diverifikasi ada pada menu 3 yaitu verifikasi dokumen dengan memasukkan id dokumen kemudian dicek kembali apakah dokumen sudah sesuai jika sudah sesuai maka statusnya akan terverifikasi seperti pada contoh gambar diatas. Untuk melihat dokumen yang sudah ditambahkan bisa memilih menu 2 yaitu lihat dokumen seperti pada gambar dibawah ini.
 <img width="714" height="149" alt="image" src="https://github.com/user-attachments/assets/ca2403b3-7bb9-4956-81ee-b07ad327a454" />
 
-Menu 4 digunakan untuk menghapus dokumen yang ada dan otomatis akan terhapus pada sistem. Menu 5 yaitu kembali akan mengembalikan sistem ke menu utama dari manajemen rumah subsidi ini dan lanjut untuk manajemen data lainnya.
+Menu 4 digunakan untuk menghapus dokumen yang ada dan otomatis akan terhapus pada sistem. 
 <img width="773" height="309" alt="image" src="https://github.com/user-attachments/assets/363ba040-45a2-443d-a949-15fdf6c37a6e" />
 
 Menu 0 yaitu kembali akan mengembalikan sistem ke menu utama dari manajemen dokumen ini dan lanjut untuk manajemen data lainnya.
+<img width="584" height="408" alt="image" src="https://github.com/user-attachments/assets/970fcc9f-c566-4232-a9cb-904ae7dae730" />
+
 
 4. Manajemen Pengajuan Rumah Subsidi
 <img width="625" height="208" alt="image" src="https://github.com/user-attachments/assets/7429debd-668e-4948-8c3f-e8b9473743b7" />
