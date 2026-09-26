@@ -42,7 +42,7 @@ Menu 4 ini digunakan untuk menghapus data pembeli maka data pembeli otomatis aka
 3. Manajemen Dokumen
 <img width="681" height="189" alt="image" src="https://github.com/user-attachments/assets/ee520496-0af4-40b4-a6f7-992118c7e288" />
 
-Pada menu dokumen ini di menu 1 yaitu tambah dokumen bisa melakukan penambahan dokumen, dengan memasukkan id dokumen, NIK pembeli, dokumen yang dipilih bisa KTP atau surat keterangan belum mempunyai rumah sesuai dengan format yang ada lalu dokumen akan tersimpan tapi statusnya belum diverifikasi. 
+Pada menu dokumen ini di menu 1 yaitu tambah dokumen bisa melakukan penambahan dokumen, dengan memasukkan id dokumen, NIK pembeli, dokumen yang dipilih bisa KTP atau surat keterangan belum mempunyai rumah sesuai dengan format yang ada lalu dokumen akan tersimpan tapi statusnya belum diverifikasi. Jika ingin melihat dokumen yang sudah ditambahkan dapat memilih menu no 2.
 
 <img width="828" height="472" alt="image" src="https://github.com/user-attachments/assets/514238fe-5363-4180-87cb-8a39fedf8c2a" />
 
