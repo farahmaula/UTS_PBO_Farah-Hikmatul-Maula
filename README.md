@@ -17,7 +17,15 @@ Pada menu utama jika memilih menu utama dapat melakukan proses menambah data, me
 Jika memilih no 1 pada menu utama akan masuk ke dalam manajemen data rumah. Admin dapat melakukan proses menambah data, melihat, mengubah, dan menghapus data rumah subsidi. Menu pertama saat melakukan pendataan tambah rumah sistem meminta memasukkan ID rumah, unit rumah, tipe rumah, harga, jumlah unit, dan blok rumah, jika berhasil memasukkannya data akan berhasil di simpan ke dalam sistemnya dan dapat dilihat pada menu kedua yaitu lihat rumah seperti contoh pada gambar dibawah ini.
 <img width="763" height="316" alt="image" src="https://github.com/user-attachments/assets/85e64eda-1d5c-494b-8089-6e76d0d6f87a" />
 
-Apabila ingin mengubah data rumah subsidi yang sudah ada bisa menggunakan menu 3 yaitu ubah rumah dengan memasukkan id rumah lalu dapat mengubah unit, tipe rumah, dan harga. Menu ini juga bisa digunakan untuk menghapus data rumah dengan memilih menu 4 yaitu hapus rumah maka data rumah otomatis akan terhapus. Menu 0 yaitu kembali akan mengembalikan sistem ke menu utama dari manajemen rumah subsidi ini dan lanjut untuk manajemen data lainnya. 
+Apabila ingin mengubah data rumah subsidi yang sudah ada bisa menggunakan menu 3 yaitu ubah rumah dengan memasukkan id rumah lalu dapat mengubah unit, tipe rumah, dan harga. 
+<img width="614" height="590" alt="image" src="https://github.com/user-attachments/assets/1e4c0f81-51ee-43fb-8e97-d74a3e289316" />
+
+<img width="593" height="569" alt="image" src="https://github.com/user-attachments/assets/ebc7b930-2760-4105-9fc3-412a054e2786" />
+
+Menu ini juga bisa digunakan untuk menghapus data rumah dengan memilih menu 4 yaitu hapus rumah maka data rumah otomatis akan terhapus. 
+
+<img width="600" height="415" alt="image" src="https://github.com/user-attachments/assets/b2059113-3f52-4984-9336-bcd47b3db70a" />
+Menu 0 yaitu kembali akan mengembalikan sistem ke menu utama dari manajemen rumah subsidi ini dan lanjut untuk manajemen data lainnya. 
 
 2. Manajemen Data Pembeli
 <img width="832" height="397" alt="image" src="https://github.com/user-attachments/assets/b9ca108c-0c72-487e-960b-2ebff99e36ca" />
