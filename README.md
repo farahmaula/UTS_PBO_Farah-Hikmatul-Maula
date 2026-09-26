@@ -32,7 +32,12 @@ Menu 0 yaitu kembali akan mengembalikan sistem ke menu utama dari manajemen ruma
 Pada menu pembeli ini isi menu sama dengan menu rumah yang sebelumnya dijelaskan. Kita dapat melakukan proses menambah data, melihat, mengubah, dan menghapus data pembeli. Saat menambahkan data pembeli di menu 1 akan diminta untuk memasukkan NIK, nama, penghasilan, nomor HP, dan status kepemilikan rumah. Setelah semua data terisi sistem akan langsung menyimpan data tersebut. Data pembeli bisa dilihat jika memilih menu 2 yaitu lihat pembeli seperti pada contoh gambar dibawah ini.
 <img width="808" height="242" alt="image" src="https://github.com/user-attachments/assets/9b066d73-a7ca-4d48-86d8-3c460841592a" />
 
-Apabila ingin mengubah data pembeli yang sudah ada bisa menggunakan menu 3 yaitu ubah pembeli dengan memasukkan NIK lalu dapat mengubah penghasilan dan no hp pembeli. Menu 4 ini digunakan untuk menghapus data pembeli maka data pembeli otomatis akan terhapus. Menu 0 yaitu kembali akan mengembalikan sistem ke menu utama dari manajemen pembeli ini dan lanjut untuk manajemen data lainnya. 
+Apabila ingin mengubah data pembeli yang sudah ada bisa menggunakan menu 3 yaitu ubah pembeli dengan memasukkan NIK lalu dapat mengubah penghasilan dan no hp pembeli. 
+<img width="608" height="503" alt="image" src="https://github.com/user-attachments/assets/6c43b97a-573c-45df-acb4-0adc51044293" />
+
+<img width="616" height="525" alt="image" src="https://github.com/user-attachments/assets/188cd2ba-264d-4dd7-93ed-c513585e62f5" />
+
+Menu 4 ini digunakan untuk menghapus data pembeli maka data pembeli otomatis akan terhapus. Menu 0 yaitu kembali akan mengembalikan sistem ke menu utama dari manajemen pembeli ini dan lanjut untuk manajemen data lainnya. 
 
 3. Manajemen Dokumen
 <img width="681" height="189" alt="image" src="https://github.com/user-attachments/assets/ee520496-0af4-40b4-a6f7-992118c7e288" />
