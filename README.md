@@ -196,3 +196,16 @@ Jadi pengguna tidak secara langsung mengubah objek Rumah, Pembeli, dokumen, dan 
 Package ini merupakan bagian Controller dalam MVC. Package ini menangani proses dan logika sistem berdasarkan input yang diberikan melalui View. Terdapat dua class di dalamnya yaitu manajemen data dan validasi input. Class manajemen data adalah bagian utama yang mengatur proses pengelolaan data seperti menambahkan, melihat, menghapus, mengelola, melakukan verifikasi, melakukan pembayaran dan yang lainnya. Class ini menggunakan ArrayList untuk menyimpan data selama program berjalan. Class validasi input digunakan untuk melakukan validasi terhadap input pengguna sebelum diproses oleh sistem. Contohnya melakukan validasi input yang tidak boleh kosong, input angka, NIK, nomor HP, ID rumah, ID dokumen, ID pengajuan, pilihan menu, dan
 angka positif. Dengan demikian, package controller bertugas sebagai pengatur alur dan proses sistem.
 
+# Penerapan Looping
+
+Penerapan looping atau perulangan digunakan untuk menapilkan menu utama dari sistem manajemen rumah subsidi dan juga sub menunya seperti untuk menu pembeli, menu rumah, menu pengajuan, dan menu dokumen. Dibawah ini adalah penerapannya.
+<img width="825" height="713" alt="image" src="https://github.com/user-attachments/assets/5fbcb475-c88f-4b0c-92ef-748e19ee946b" />
+<img width="955" height="262" alt="image" src="https://github.com/user-attachments/assets/c334a504-6098-4fb7-adaf-623f8ce4a40f" />
+<img width="855" height="767" alt="image" src="https://github.com/user-attachments/assets/eb2ba9d9-909a-479f-adb9-54834eaa0cf7" />
+<img width="1011" height="310" alt="image" src="https://github.com/user-attachments/assets/dc3b0fae-fee0-4099-9444-a92e2f6d2476" />
+<img width="806" height="759" alt="image" src="https://github.com/user-attachments/assets/e4b739c5-e7e6-495d-8778-ce5a21ed3ef3" />
+<img width="1063" height="423" alt="image" src="https://github.com/user-attachments/assets/d558b5e1-abb4-4725-985f-31a6b7ac6a7f" />
+<img width="857" height="763" alt="image" src="https://github.com/user-attachments/assets/8fd48dbf-4b5c-492e-a823-45c9e6b22647" />
+<img width="1086" height="348" alt="image" src="https://github.com/user-attachments/assets/0fdceef5-bbf2-4ab2-b51b-7e6811b88ff8" />
+<img width="1232" height="597" alt="image" src="https://github.com/user-attachments/assets/8d04c9c3-fdfb-42a1-968d-6630cb394700" />
+<img width="1113" height="721" alt="image" src="https://github.com/user-attachments/assets/336d132f-0136-4139-a61b-242e07df918d" />
